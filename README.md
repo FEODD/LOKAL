@@ -1,2 +1,2 @@
 # LOKAL
-game project --soon--
+personal website --soon--
